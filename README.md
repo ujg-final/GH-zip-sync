@@ -1,4 +1,4 @@
-[![Version123123](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://badge.fury.io/gh/tterb%2FHyde)
+[![Version123123](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://example.com)
 asdkfjhakjsfh ashkfdh asfjkaskfhashfsfhhskf
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 
