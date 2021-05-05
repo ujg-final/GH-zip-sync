@@ -1,3 +1,7 @@
+[![Version123123](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+
+
 # GH-zip-sync
 
 # README FROM my-new-default BRANCH
