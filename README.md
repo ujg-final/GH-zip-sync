@@ -1,6 +1,4 @@
-[![Version123123](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://example.com)
 asdkfjhakjsfh ashkfdh asfjkaskfhashfsfhhskf
-[![Version](https://img.shields.io/gh/tterb%2FHyde.svg)](https://example.com)
 
 
 # GH-zip-sync
